@@ -1,5 +1,5 @@
 # IBM-Project-32185-1660208512
-Car Resale value Prediction
+Car Resale value Prediction using ML
 
 Team ID: PNT2022TMID20190
 
