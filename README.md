@@ -3,6 +3,8 @@ Car Resale value Prediction using ML
 
 Team ID: PNT2022TMID20190
 
+Category: MachineLearning
+
 Domain: Applied Data Science
 
 Naveen Kumar(Team Leader)
